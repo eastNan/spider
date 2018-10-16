@@ -15,5 +15,5 @@
 python3 /root/spider/demo.py
 ```
 
-## 验证
-![文件](https://github.com/eastNan/AutoExtPartition/blob/master/doc/pic/auto-fs1.png)
+## 目录
+![图片文件](https://github.com/eastNan/spider/blob/master/doc/spider-tieba.png)
