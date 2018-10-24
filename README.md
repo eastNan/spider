@@ -1,6 +1,6 @@
 ## 功能
 * 获得百度贴吧，某个帖子的内的图片文件。
-* 参考文章: http://zongming.net/
+* 参考文章: http://zongming.net/read-1393
 
 ## 环境
 * Python 3
